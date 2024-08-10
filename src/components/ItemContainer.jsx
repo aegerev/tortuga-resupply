@@ -13,7 +13,7 @@ export function ItemContainer() {
         Cereal: 0,
         Yogurt: 0,
         USBDrives: 0,
-        BugSpray: 0
+        BugSpray: 0,
 	};
 
 	const [fruitCounts, setFruitCounts] = useState(initialCounts);
